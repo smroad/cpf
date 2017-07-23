@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="config_main" target="1.8" />
+      <module name="config_test" target="1.8" />
+      <module name="cpf_main" target="1.8" />
+      <module name="cpf_test" target="1.8" />
+      <module name="eserver_main" target="1.8" />
+      <module name="eserver_test" target="1.8" />
+      <module name="feign_main" target="1.8" />
+      <module name="feign_test" target="1.8" />
+      <module name="gitconfig_main" target="1.8" />
+      <module name="gitconfig_test" target="1.8" />
+      <module name="gw_main" target="1.8" />
+      <module name="gw_test" target="1.8" />
+      <module name="micros1_main" target="1.8" />
+      <module name="micros1_test" target="1.8" />
+      <module name="ribbon_main" target="1.8" />
+      <module name="ribbon_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

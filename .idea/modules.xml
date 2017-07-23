@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config.iml" filepath="$PROJECT_DIR$/.idea/modules/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config_main.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config_test.iml" group="config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpf.iml" filepath="$PROJECT_DIR$/.idea/modules/cpf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cpf_main.iml" group="cpf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cpf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cpf_test.iml" group="cpf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eserver.iml" filepath="$PROJECT_DIR$/.idea/modules/eserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eserver_main.iml" group="eserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eserver_test.iml" group="eserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign.iml" filepath="$PROJECT_DIR$/.idea/modules/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/feign_main.iml" group="feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/feign_test.iml" group="feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/gitconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gitconfig_main.iml" group="gitconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gitconfig_test.iml" group="gitconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gw.iml" filepath="$PROJECT_DIR$/.idea/modules/gw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gw_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gw_main.iml" group="gw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gw_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gw_test.iml" group="gw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micros1.iml" filepath="$PROJECT_DIR$/.idea/modules/micros1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micros1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/micros1_main.iml" group="micros1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micros1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/micros1_test.iml" group="micros1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon_main.iml" group="ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon_test.iml" group="ribbon" />
+    </modules>
+  </component>
+</project>
